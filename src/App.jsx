@@ -153,7 +153,7 @@ function SocialBar() {
     { name: "Instagram", icon: SocialIcons.instagram, url: "https://www.instagram.com/tatva_vastu_consultancy", color: "#E1306C" },
     { name: "Facebook", icon: SocialIcons.facebook, url: "https://www.facebook.com/tatvaVastuConsultancy", color: "#1877F2" },
     { name: "YouTube", icon: SocialIcons.youtube, url: "https://www.youtube.com/@tatvaVastu", color: "#FF0000" },
-    { name: "WhatsApp", icon: SocialIcons.whatsapp, url: "https://wa.me/919662013329", color: "#25D366" },
+    { name: "WhatsApp", icon: SocialIcons.whatsapp, url: "https://wa.me/919173878471", color: "#25D366" },
   ];
   return (
     <div style={{ display: "flex", gap: "0.7rem", alignItems: "center" }}>
@@ -458,7 +458,7 @@ function HomePage({ setPage }) {
           <div style={{ fontFamily: FONTS.sans, fontSize: "0.65rem", letterSpacing: "0.3em", textTransform: "uppercase", color: COLORS.gold, marginBottom: "0.8rem" }}>✦ Start Your Journey</div>
           <h2 style={{ fontFamily: FONTS.display, fontSize: "clamp(1.6rem, 3.5vw, 3rem)", color: COLORS.white, marginBottom: "0.8rem" }}>Ready to Transform Your Space?</h2>
           <p style={{ fontFamily: FONTS.sans, color: COLORS.textMuted, fontSize: "0.9rem", marginBottom: "2rem" }}>
-            Call us: <a href="tel:+919662013329" style={{ color: COLORS.gold, fontWeight: 700, textDecoration: "none" }}>+91 9662013329</a>
+            Call us: <a href="tel:+919173878471" style={{ color: COLORS.gold, fontWeight: 700, textDecoration: "none" }}>+91 9662013329</a>
           </p>
           <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}>
             <button onClick={() => setPage("booking")} style={{ background: COLORS.gold, color: COLORS.purpleDeep, fontFamily: FONTS.sans, fontSize: "0.78rem", letterSpacing: "0.12em", textTransform: "uppercase", fontWeight: 700, padding: "0.9rem 2.2rem", border: "none", cursor: "pointer", borderRadius: "2px" }}>📅 Book Now</button>
@@ -777,7 +777,7 @@ function EnquiryPage() {
                   {loading ? "Sending..." : "💬 Send Enquiry"}
                 </button>
                 <p style={{ fontFamily: FONTS.sans, fontSize: "0.72rem", color: COLORS.textMuted, textAlign: "center", marginTop: "1rem" }}>
-                  Or call directly: <a href="tel:+919662013329" style={{ color: COLORS.gold, textDecoration: "none", fontWeight: 700 }}>+91 9662013329</a>
+                  Or call directly: <a href="tel:+919173878471" style={{ color: COLORS.gold, textDecoration: "none", fontWeight: 700 }}>+91 9662013329</a>
                 </p>
               </div>
             </Reveal>
@@ -825,7 +825,7 @@ function BookingPage() {
         <div style={{ maxWidth: 720, margin: "0 auto", display: "grid", gridTemplateColumns: "1fr 1.8fr", gap: "2.5rem", alignItems: "start" }} className="booking-layout">
           <Reveal>
             <div>
-              <a href="tel:+919662013329" style={{ textDecoration: "none" }}>
+              <a href="tel:+919173878471" style={{ textDecoration: "none" }}>
                 <div style={{ background: `linear-gradient(135deg, ${COLORS.purple}, ${COLORS.purpleDark})`, border: `2px solid ${COLORS.gold}`, borderRadius: "8px", padding: "1.8rem", textAlign: "center", marginBottom: "1.2rem", cursor: "pointer" }}>
                   <div style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>📞</div>
                   <div style={{ fontFamily: FONTS.display, fontSize: "1rem", color: COLORS.gold, letterSpacing: "0.05em", marginBottom: "0.3rem" }}>Call to Book</div>
@@ -833,7 +833,7 @@ function BookingPage() {
                   <div style={{ fontFamily: FONTS.sans, fontSize: "0.72rem", color: COLORS.cream2, marginTop: "0.5rem" }}>Tap to call directly</div>
                 </div>
               </a>
-              <a href="https://wa.me/919662013329?text=Hello%2C%20I%20want%20to%20book%20a%20Vastu%20consultation." target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none" }}>
+              <a href="https://wa.me/919173878471?text=Hello%2C%20I%20want%20to%20book%20a%20Vastu%20consultation." target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none" }}>
                 <div style={{ background: "rgba(37,211,102,0.1)", border: "1px solid rgba(37,211,102,0.35)", borderRadius: "8px", padding: "1.5rem", textAlign: "center", marginBottom: "1.2rem", cursor: "pointer" }}>
                   <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "0.7rem" }}>
                     <span style={{ color: "#25D366" }}>{SocialIcons.whatsapp}</span>
@@ -939,7 +939,7 @@ function ContactPage() {
     { name: "Instagram", icon: SocialIcons.instagram, url: "https://www.instagram.com/tatva_vastu_consultancy", color: "#E1306C", handle: "@tatva_vastu_consultancy" },
     { name: "Facebook", icon: SocialIcons.facebook, url: "https://www.facebook.com/tatvaVastuConsultancy", color: "#1877F2", handle: "Tatva Vastu Consultancy" },
     { name: "YouTube", icon: SocialIcons.youtube, url: "https://www.youtube.com/@tatvaVastu", color: "#FF0000", handle: "@tatvaVastu" },
-    { name: "WhatsApp", icon: SocialIcons.whatsapp, url: "https://wa.me/919662013329", color: "#25D366", handle: "+91 9662013329" },
+    { name: "WhatsApp", icon: SocialIcons.whatsapp, url: "https://wa.me/919173878471", color: "#25D366", handle: "+91 9662013329" },
   ];
   return (
     <div style={{ paddingTop: "80px" }}>
@@ -954,7 +954,7 @@ function ContactPage() {
       <section style={{ padding: "1rem 5% 5rem", maxWidth: 1000, margin: "0 auto" }}>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: "1.2rem", marginBottom: "3rem" }}>
           {[
-            { icon: "📞", label: "Phone / WhatsApp", val: "+91 9662013329", link: "tel:+919662013329" },
+            { icon: "📞", label: "Phone / WhatsApp", val: "+91 9662013329", link: "tel:+919173878471" },
             { icon: "🕐", label: "Working Hours", val: "Mon–Sat: 9 AM – 7 PM", link: null },
             { icon: "📍", label: "Location", val: "Ahmedabad, Gujarat", link: null },
             { icon: "🌐", label: "Online Sessions", val: "Available Worldwide", link: null },
@@ -1006,8 +1006,8 @@ function ContactPage() {
               "Every space has a story. Let us help you rewrite yours."
             </p>
             <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}>
-              <a href="tel:+919662013329" style={{ background: COLORS.gold, color: COLORS.purpleDeep, fontFamily: FONTS.sans, fontSize: "0.78rem", letterSpacing: "0.1em", textTransform: "uppercase", fontWeight: 700, padding: "0.9rem 1.8rem", borderRadius: "2px", textDecoration: "none" }}>📞 Call Now</a>
-              <a href="https://wa.me/919662013329" target="_blank" rel="noopener noreferrer" style={{ background: "#25D366", color: "#fff", fontFamily: FONTS.sans, fontSize: "0.78rem", letterSpacing: "0.1em", textTransform: "uppercase", fontWeight: 700, padding: "0.9rem 1.8rem", borderRadius: "2px", textDecoration: "none" }}>WhatsApp</a>
+              <a href="tel:+919173878471" style={{ background: COLORS.gold, color: COLORS.purpleDeep, fontFamily: FONTS.sans, fontSize: "0.78rem", letterSpacing: "0.1em", textTransform: "uppercase", fontWeight: 700, padding: "0.9rem 1.8rem", borderRadius: "2px", textDecoration: "none" }}>📞 Call Now</a>
+              <a href="https://wa.me/919173878471" target="_blank" rel="noopener noreferrer" style={{ background: "#25D366", color: "#fff", fontFamily: FONTS.sans, fontSize: "0.78rem", letterSpacing: "0.1em", textTransform: "uppercase", fontWeight: 700, padding: "0.9rem 1.8rem", borderRadius: "2px", textDecoration: "none" }}>WhatsApp</a>
             </div>
           </div>
         </Reveal>
@@ -1022,7 +1022,7 @@ function Footer({ setPage }) {
     { name: "Instagram", icon: SocialIcons.instagram, url: "https://www.instagram.com/tatva_vastu_consultancy", color: "#E1306C" },
     { name: "Facebook", icon: SocialIcons.facebook, url: "https://www.facebook.com/tatvaVastuConsultancy", color: "#1877F2" },
     { name: "YouTube", icon: SocialIcons.youtube, url: "https://www.youtube.com/@tatvaVastu", color: "#FF0000" },
-    { name: "WhatsApp", icon: SocialIcons.whatsapp, url: "https://wa.me/919662013329", color: "#25D366" },
+    { name: "WhatsApp", icon: SocialIcons.whatsapp, url: "https://wa.me/919173878471", color: "#25D366" },
   ];
   return (
     <footer style={{ background: COLORS.dark2, borderTop: "1px solid rgba(201,168,76,0.15)", padding: "4rem 5% 2rem", position: "relative", zIndex: 1 }}>
@@ -1036,7 +1036,7 @@ function Footer({ setPage }) {
             Authentic Vastu Shastra, KP Astrology & Reiki services since 2010. Honest guidance, real results.
           </p>
           <div style={{ fontFamily: FONTS.sans, fontSize: "0.82rem", color: COLORS.cream, marginBottom: "0.4rem" }}>
-            <a href="tel:+919662013329" style={{ color: COLORS.gold, textDecoration: "none", fontWeight: 700 }}>📞 +91 9662013329</a>
+            <a href="tel:+919173878471" style={{ color: COLORS.gold, textDecoration: "none", fontWeight: 700 }}>📞 +91 9662013329</a>
           </div>
           <div style={{ marginTop: "1rem" }}>
             <div style={{ fontFamily: FONTS.sans, fontSize: "0.62rem", letterSpacing: "0.15em", textTransform: "uppercase", color: COLORS.textMuted, marginBottom: "0.7rem" }}>Follow Us</div>
