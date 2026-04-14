@@ -492,11 +492,11 @@ function AboutPage() {
                 Guiding Lives Since<br /><span style={{ color: COLORS.gold }}>2010</span>
               </h1>
               <p style={{ fontFamily: FONTS.body, fontSize: "1.05rem", color: COLORS.cream2, lineHeight: 1.9, marginBottom: "1.2rem" }}>
-                Tatva Vastu Consultancy was founded with a single mission: to bring authentic, science-backed Vastu Shastra and astrology guidance to everyday people — without superstition, without fear, and without false promises.
-              </p>
+              At Tatva Vastu, we offer practical and result-oriented guidance through Astrology, Vastu, and Healing. Samrat Achesariya, with 17+ years of experience, specializes in Astrology and Vastu consultancy, helping individuals, homeowners, and businesses achieve growth, clarity, and balance through plot, residential, commercial, and project-based Vastu solutions.              </p>
               <p style={{ fontFamily: FONTS.body, fontSize: "0.95rem", color: COLORS.textMuted, lineHeight: 1.9 }}>
-                The word "Tatva" means element — representing Earth, Water, Fire, Air, and Space. When these elements are in balance within your space, prosperity and peace naturally follow.
-              </p>
+              Veeral Achesariya, with 7+ years of experience, focuses on KP Astrology and Nakshatra-based analysis, guiding individuals to understand their life path and make confident decisions. He is also a Reiki teacher, supporting emotional healing and inner peace. </p>
+              <p style={{ fontFamily: FONTS.body, fontSize: "1.05rem", color: COLORS.cream2, lineHeight: 1.9 }}>
+              We believe in clear, honest guidance based on logic and experience—without promoting superstition—helping you move forward with clarity and confidence.              </p>
             </Reveal>
           </div>
           <Reveal delay={0.2}>
