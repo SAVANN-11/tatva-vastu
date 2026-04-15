@@ -227,7 +227,6 @@ function Nav({ page, setPage }) {
           <div style={{ fontFamily: FONTS.display, fontSize: "0.85rem", letterSpacing: "0.1em", color: COLORS.gold, lineHeight: 2 }}>TATVA VASTU</div>
           <div style={{ fontFamily: FONTS.sans, fontSize: "0.57rem", letterSpacing: "0.2em", color: COLORS.textMuted, lineHeight: 1.3 }}>Align your life,</div>
           <div style={{ fontFamily: FONTS.sans, fontSize: "0.57rem", letterSpacing: "0.2em", color: COLORS.textMuted, lineHeight: 1.5 }}>Elevate your space.</div>
-          <div style={{ fontFamily: FONTS.sans, fontSize: "0.57rem", letterSpacing: "0.2em", color: COLORS.textMuted, lineHeight: 1.3 }}>Since2010</div>
         </div>
       </div>
 
