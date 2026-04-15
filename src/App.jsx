@@ -216,12 +216,12 @@ function Nav({ page, setPage }) {
       transition: "all 0.4s ease",
     }}>
       {/* Logo */}
-      <div style={{ display: "flex", alignItems: "center", gap: "0.10rem", cursor: "pointer", flexShrink: 0 }}
+      <div style={{ display: "flex", alignItems: "center", gap: "0.0 rem", cursor: "pointer", flexShrink: 0 }}
         onClick={() => { setPage("home"); setMenuOpen(false); }}>
         <img src={TATVA_LOGO} alt="Tatva Vastu Logo" style={{
-          width: 60, height: 42,
+          width: 50, height: 50,
           objectFit: "contain", flexShrink: 0,
-          filter: "drop-shadow(0 0 6px rgba(201,168,76,0.4))",
+          filter: "drop-shadow(0 0 8px rgba(221, 122, 9, 0.57))",
         }}/>
         <div>
           <div style={{ fontFamily: FONTS.display, fontSize: "0.85rem", letterSpacing: "0.1em", color: COLORS.gold, lineHeight: 2 }}>TATVA VASTU</div>
