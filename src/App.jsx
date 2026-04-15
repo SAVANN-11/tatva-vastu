@@ -339,10 +339,10 @@ function HomePage({ setPage }) {
             ✦ Since 2010 · Trusted Vastu & Astrology ✦
           </div>
           <h1 style={{ fontFamily: FONTS.display, fontSize: "clamp(2.2rem, 7vw, 5.5rem)", fontWeight: 700, lineHeight: 1.05, color: COLORS.white, marginBottom: "0.4rem", animation: "fadeUp 0.8s 0.4s both" }}>
-            TATVA VASTU
+           Vastu Consultant in Ahmedabad 
           </h1>
           <h2 style={{ fontFamily: FONTS.display, fontSize: "clamp(1rem, 3vw, 2.2rem)", fontWeight: 400, letterSpacing: "0.18em", color: COLORS.gold, marginBottom: "1.2rem", animation: "fadeUp 0.8s 0.5s both" }}>
-            CONSULTANCY
+            KP Astrology & Reiki — Tatva Vastu Consultancy
           </h2>
           <p style={{ fontFamily: FONTS.body, fontStyle: "italic", fontSize: "clamp(1rem, 2vw, 1.35rem)", color: COLORS.cream2, maxWidth: 520, margin: "0 auto 1rem", lineHeight: 1.8, animation: "fadeUp 0.8s 0.6s both" }}>
             "We believe in clear, honest guidance — not false hope."
@@ -388,7 +388,7 @@ function HomePage({ setPage }) {
         <Reveal>
           <div style={{ textAlign: "center", marginBottom: "3.5rem" }}>
             <div style={{ fontFamily: FONTS.sans, fontSize: "0.65rem", letterSpacing: "0.3em", textTransform: "uppercase", color: COLORS.gold, marginBottom: "0.7rem" }}>✦ What We Offer</div>
-            <h2 style={{ fontFamily: FONTS.display, fontSize: "clamp(1.6rem, 3.5vw, 3rem)", color: COLORS.white }}>Our Sacred Services</h2>
+            <h2 style={{ fontFamily: FONTS.display, fontSize: "clamp(1.6rem, 3.5vw, 3rem)", color: COLORS.white }}>Vastu & Astrology Services in Ahmedabad, Gujarat</h2>
           </div>
         </Reveal>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: "1.2rem", maxWidth: 1100, margin: "0 auto" }}>
@@ -497,6 +497,17 @@ function AboutPage() {
               Veeral Achesariya, with 7+ years of experience, focuses on KP Astrology and Nakshatra-based analysis, guiding individuals to understand their life path and make confident decisions. He is also a Reiki teacher, supporting emotional healing and inner peace. </p>
               <p style={{ fontFamily: FONTS.body, fontSize: "1.05rem", color: COLORS.cream2, lineHeight: 1.9 }}>
               We believe in clear, honest guidance based on logic and experience—without promoting superstition—helping you move forward with clarity and confidence.              </p>
+          
+<p style={{ fontFamily: FONTS.sans, fontSize: "0.85rem", color: COLORS.textMuted, marginTop: "1rem" }}>
+  Explore our{" "}
+  <span onClick={() => setPage("services")} style={{ color: COLORS.gold, cursor: "pointer", textDecoration: "underline" }}>
+    Vastu and astrology services
+  </span>{" "}
+  or{" "}
+  <span onClick={() => setPage("booking")} style={{ color: COLORS.gold, cursor: "pointer", textDecoration: "underline" }}>
+    book a consultation in Ahmedabad
+  </span>.
+</p>
             </Reveal>
           </div>
           <Reveal delay={0.2}>
@@ -692,6 +703,7 @@ function BlogPage() {
         </div>
       </section>
     </div>
+    
   );
 }
 
