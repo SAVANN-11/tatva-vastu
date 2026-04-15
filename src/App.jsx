@@ -224,7 +224,7 @@ function Nav({ page, setPage }) {
           filter: "drop-shadow(0 0 8px rgba(221, 122, 9, 0.57))",
         }}/>
         <div>
-          <div style={{ fontFamily: FONTS.display, fontSize: "0.85rem", letterSpacing: "0.1em", color: COLORS.gold, lineHeight: 2 }}>TATVA VASTU</div>
+          <div style={{ fontFamily: FONTS.display, fontSize: "0.85rem", letterSpacing: "0.1em", color: COLORS.gold, lineHeight: 1 }}>TATVA VASTU</div>
           <div style={{ fontFamily: FONTS.sans, fontSize: "0.57rem", letterSpacing: "0.2em", color: COLORS.textMuted, lineHeight: 1.3 }}>Align your life,</div>
           <div style={{ fontFamily: FONTS.sans, fontSize: "0.57rem", letterSpacing: "0.2em", color: COLORS.textMuted, lineHeight: 1.5 }}>Elevate your space.</div>
         </div>
