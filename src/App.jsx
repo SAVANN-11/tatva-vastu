@@ -1150,7 +1150,8 @@ function Footer({ setPage }) {
         ))}
       </div>
       <div style={{ borderTop: "1px solid rgba(201,168,76,0.1)", paddingTop: "1.5rem", display: "flex", justifyContent: "space-between", alignItems: "center", maxWidth: 1100, margin: "0 auto", flexWrap: "wrap", gap: "0.8rem" }}>
-        <p style={{ fontFamily: FONTS.sans, fontSize: "0.75rem", color: COLORS.textMuted }}>© 2026 Tatva Vastu. All Rights Reserved. | Developed by Savann</p>
+        <p style={{ fontFamily: FONTS.sans, fontSize: "0.75rem", color: COLORS.textMuted }}>© 2026 Tatva Vastu. All Rights Reserved.</p>
+        <p style={{ fontFamily: FONTS.sans, fontSize: "0.75rem", color: COLORS.textMuted }}>Developed by Savann</p>
         <p style={{ fontFamily: FONTS.sans, fontSize: "0.75rem", color: COLORS.textMuted }}>Ahmedabad, Gujarat · Since 2010</p>
       </div>
     </footer>
