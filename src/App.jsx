@@ -765,7 +765,7 @@ function EnquiryPage() {
   const handleSubmit = async () => {
     if (!form.name || !form.phone) return alert("Please fill Name and Phone.");
     setLoading(true);
-    const res = await fetch("https://formspree.io/f/xykbvoqw", {
+    const res = await fetch("https://formspree.io/f/mlgalvon", {
       method: "POST", headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ ...form, _subject: `New Enquiry from ${form.name}` }),
     });
@@ -859,7 +859,7 @@ function BookingPage() {
   const handleSubmit = async () => {
     if (!form.name || !form.phone || !form.service) return alert("Please fill Name, Phone and Service.");
     setLoading(true);
-    const res = await fetch("https://formspree.io/f/mwvwjljy", {
+    const res = await fetch("https://formspree.io/f/mvzdqyvn", {
       method: "POST", headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ ...form, _subject: `New Booking from ${form.name} - ${form.service}` }),
     });
