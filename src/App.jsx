@@ -951,31 +951,12 @@ function BookingPage() {
                 </div>
                 <select style={{ ...inputStyle, marginBottom: "1rem" }} name="service" value={form.service} onChange={handleChange}>
                   <option value="">Select Service *</option>
-                  <option>Chart Analysis (Nakshatra & KP)</option>
-                  <option>Industrial Vastu</option>
-                  <option>Plot Vastu Guidance</option>
-                  <option>Residential Vastu</option>
-                  <option>Reiki Training</option>
-                  <option>Gruhpravesh Pooja in Ahmedabad</option>
-                  <option>Rudri Pooja in Ahmedabad</option>
-                  <option>Vishnu Yagna in Gujarat</option>
-                  <option>Ganesh Yagna Ahmedabad</option>
-                  <option>Maruti Yagna (Hanuman Pooja)</option>
-                  <option>Vratodhyapan Vidhi Ahmedabad</option>
-                  <option>16 Sanskar Vidhi Gujarat</option>
-                  <option>Shanti Karma Pooja Ahmedabad</option>
-                  <option>Satyanarayan Katha Ahmedabad</option>
-                  <option>Vastu Pooja Ahmedabad</option>
-                  <option>Navchandi Yagna Gujarat</option>
-                  <option>Laghurudra Yagna Ahmedabad</option>
-                  <option>Grahashanti Havan Ahmedabad</option>
-                  <option>Vivah Sanskar Ahmedabad</option>
-                  <option>Chopda Poojan Ahmedabad</option>
-                  <option>Janoi Sanskar Gujarat</option>
-                  <option>Swaminarayan Mahapooja Ahmedabad</option>
-                  <option>Pran Pratishta Ahmedabad</option>
-                  <option>Chandi Path Gujarat</option>
-                  <option>Randal Pooja Ahmedabad</option>
+                  <option> Chart reading 25 minutes </option>
+                  <option> Chart reading 60 minutes </option> 
+                  <option> Numerology report </option>
+                  <option> Residential vastu </option>
+                  <option> Plot vastu </option>
+                  <option> Reiki course </option>
                 </select>
                 <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1rem", marginBottom: "1rem" }} className="form-grid">
                   <select style={inputStyle} name="mode" value={form.mode} onChange={handleChange}>
