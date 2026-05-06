@@ -573,45 +573,45 @@ function ServicesPage({ setPage }) {
     { icon: "✨", name: "Reiki Training", sub: "Energy Healing & Attunement", desc: "Learn the ancient Japanese art of energy healing. Our certified Reiki trainer offers Level 1, 2, and Master-level courses.", features: ["Reiki Level 1, 2 & Master","Chakra Healing","Distance Healing","Certification Provided","Small Batch Classes","Ongoing Support"] },
     // 🔱 Pooja & Yagna Services (SEO Optimized)
 
-{ icon: "🏡", name: "Gruhpravesh Pooja in Ahmedabad", sub: "New Home Entry Vastu Ritual", desc: "Ahmedabad aur Gujarat me naye ghar ke pravesh ke liye shubh Gruhpravesh Pooja karvai jati hai. Vastu Shanti, Kalash Sthapana aur Havan ke saath ghar me positive energy aur prosperity lai jati hai.", features: ["Vastu Shanti Ahmedabad","Ganesh Sthapana","Kalash Sthapana","Havan Vidhi","Pandit in Ahmedabad","Complete Setup"] },
+//{ icon: "🏡", name: "Gruhpravesh Pooja in Ahmedabad", sub: "New Home Entry Vastu Ritual", desc: "Ahmedabad aur Gujarat me naye ghar ke pravesh ke liye shubh Gruhpravesh Pooja karvai jati hai. Vastu Shanti, Kalash Sthapana aur Havan ke saath ghar me positive energy aur prosperity lai jati hai.", features: ["Vastu Shanti Ahmedabad","Ganesh Sthapana","Kalash Sthapana","Havan Vidhi","Pandit in Ahmedabad","Complete Setup"] },
 
-{ icon: "🕉️", name: "Rudri Pooja in Ahmedabad", sub: "Shiv Shakti & Mahamrityunjaya Jaap", desc: "Ahmedabad me Rudri Pooja aur Mahamrityunjaya Jaap dwara Bhagwan Shiv ki kripa prapt kare aur negative energy ko door kare.", features: ["Rudra Abhishek","Mahamrityunjaya Jaap","Shiv Pooja Ahmedabad","Dosha Nivaran","Health & Peace","Expert Pandit"] },
+//{ icon: "🕉️", name: "Rudri Pooja in Ahmedabad", sub: "Shiv Shakti & Mahamrityunjaya Jaap", desc: "Ahmedabad me Rudri Pooja aur Mahamrityunjaya Jaap dwara Bhagwan Shiv ki kripa prapt kare aur negative energy ko door kare.", features: ["Rudra Abhishek","Mahamrityunjaya Jaap","Shiv Pooja Ahmedabad","Dosha Nivaran","Health & Peace","Expert Pandit"] },
 
-{ icon: "🔥", name: "Vishnu Yagna in Gujarat", sub: "Prosperity & Lakshmi Blessings", desc: "Gujarat me Vishnu Yagna karva kar dhan, sukh aur samriddhi prapt kare. Yeh yagna family welfare aur business growth ke liye shubh mana jata hai.", features: ["Havan Vidhi","Mantra Jaap","Lakshmi Blessings","Family Welfare","Positive Energy","Pandit Service"] },
+//{ icon: "🔥", name: "Vishnu Yagna in Gujarat", sub: "Prosperity & Lakshmi Blessings", desc: "Gujarat me Vishnu Yagna karva kar dhan, sukh aur samriddhi prapt kare. Yeh yagna family welfare aur business growth ke liye shubh mana jata hai.", features: ["Havan Vidhi","Mantra Jaap","Lakshmi Blessings","Family Welfare","Positive Energy","Pandit Service"] },
 
-{ icon: "🐘", name: "Ganesh Yagna Ahmedabad", sub: "Vighna Nivaran Pooja", desc: "Ahmedabad me Ganesh Yagna karva kar naye kaam me safalta aur sabhi badhaon ka nivaran kare.", features: ["Ganesh Sthapana","Havan","Vighna Nivaran","New Business Start","Success Ritual","Auspicious Beginning"] },
+// icon: "🐘", name: "Ganesh Yagna Ahmedabad", sub: "Vighna Nivaran Pooja", desc: "Ahmedabad me Ganesh Yagna karva kar naye kaam me safalta aur sabhi badhaon ka nivaran kare.", features: ["Ganesh Sthapana","Havan","Vighna Nivaran","New Business Start","Success Ritual","Auspicious Beginning"] },
 
-{ icon: "💪", name: "Maruti Yagna (Hanuman Pooja)", sub: "Shakti & Protection Ritual", desc: "Hanuman ji ki kripa se shakti aur suraksha paane ke liye Ahmedabad me Maruti Yagna karvaye.", features: ["Hanuman Chalisa","Protection Ritual","Shani Dosha Relief","Strength & Courage","Energy Boost","Havan"] },
+//{ icon: "💪", name: "Maruti Yagna (Hanuman Pooja)", sub: "Shakti & Protection Ritual", desc: "Hanuman ji ki kripa se shakti aur suraksha paane ke liye Ahmedabad me Maruti Yagna karvaye.", features: ["Hanuman Chalisa","Protection Ritual","Shani Dosha Relief","Strength & Courage","Energy Boost","Havan"] },
 
-{ icon: "📿", name: "Vratodhyapan Vidhi Ahmedabad", sub: "Vrat Samapan Pooja", desc: "Ahmedabad me vrat poorn hone par vidhi-poorvak Vratodhyapan karva kar pooja ka samapan kare.", features: ["Vrat Samapan","Pooja Vidhi","Daan & Sankalp","Blessings","Pandit Guidance","Traditional Ritual"] },
+//{ icon: "📿", name: "Vratodhyapan Vidhi Ahmedabad", sub: "Vrat Samapan Pooja", desc: "Ahmedabad me vrat poorn hone par vidhi-poorvak Vratodhyapan karva kar pooja ka samapan kare.", features: ["Vrat Samapan","Pooja Vidhi","Daan & Sankalp","Blessings","Pandit Guidance","Traditional Ritual"] },
 
-{ icon: "🪔", name: "16 Sanskar Vidhi Gujarat", sub: "Hindu Sanskar Ceremony", desc: "Gujarat me janam se vivah tak ke 16 sanskar poorn vidhi se karvaye jaate hai jo jeevan me shubh fal dete hai.", features: ["Naamkaran","Annaprashan","Mundan","Vivah Sanskar","Complete Ritual","Family Guidance"] },
+//{ icon: "🪔", name: "16 Sanskar Vidhi Gujarat", sub: "Hindu Sanskar Ceremony", desc: "Gujarat me janam se vivah tak ke 16 sanskar poorn vidhi se karvaye jaate hai jo jeevan me shubh fal dete hai.", features: ["Naamkaran","Annaprashan","Mundan","Vivah Sanskar","Complete Ritual","Family Guidance"] },
 
-{ icon: "☮️", name: "Shanti Karma Pooja Ahmedabad", sub: "Peace & Graha Shanti", desc: "Ahmedabad me ghar me sukh-shanti ke liye Shanti Karma aur Graha Shanti pooja karvaye.", features: ["Graha Shanti","Dosha Nivaran","Havan","Peace Energy","Family Harmony","Custom Ritual"] },
+//{ icon: "☮️", name: "Shanti Karma Pooja Ahmedabad", sub: "Peace & Graha Shanti", desc: "Ahmedabad me ghar me sukh-shanti ke liye Shanti Karma aur Graha Shanti pooja karvaye.", features: ["Graha Shanti","Dosha Nivaran","Havan","Peace Energy","Family Harmony","Custom Ritual"] },
 
-{ icon: "📖", name: "Satyanarayan Katha Ahmedabad", sub: "Vishnu Katha & Pooja", desc: "Ahmedabad me Satyanarayan Katha karva kar Bhagwan Vishnu ki kripa aur ghar me prosperity laaye.", features: ["Katha Paath","Pooja Vidhi","Prasad","Family Function","Prosperity","Auspicious Days"] },
+//{ icon: "📖", name: "Satyanarayan Katha Ahmedabad", sub: "Vishnu Katha & Pooja", desc: "Ahmedabad me Satyanarayan Katha karva kar Bhagwan Vishnu ki kripa aur ghar me prosperity laaye.", features: ["Katha Paath","Pooja Vidhi","Prasad","Family Function","Prosperity","Auspicious Days"] },
 
-{ icon: "🧭", name: "Vastu Pooja Ahmedabad", sub: "Vastu Dosha Nivaran", desc: "Ahmedabad me ghar, office ya shop ke liye vastu pooja karva kar vastu dosh door kare aur positive energy badhaye.", features: ["Vastu Shanti","Dosha Removal","Energy Balance","Havan","Home & Office","Vastu Expert"] },
+//{ icon: "🧭", name: "Vastu Pooja Ahmedabad", sub: "Vastu Dosha Nivaran", desc: "Ahmedabad me ghar, office ya shop ke liye vastu pooja karva kar vastu dosh door kare aur positive energy badhaye.", features: ["Vastu Shanti","Dosha Removal","Energy Balance","Havan","Home & Office","Vastu Expert"] },
 
-{ icon: "🔥", name: "Navchandi Yagna Gujarat", sub: "Durga Maha Yagna", desc: "Navchandi Yagna Gujarat me ek shaktishaali anushthan hai jo Maa Durga ki kripa prapt karne ke liye kiya jata hai.", features: ["Chandi Paath","Havan","Shakti Prapti","Protection","Large Scale Ritual","Pandit Team"] },
+//{ icon: "🔥", name: "Navchandi Yagna Gujarat", sub: "Durga Maha Yagna", desc: "Navchandi Yagna Gujarat me ek shaktishaali anushthan hai jo Maa Durga ki kripa prapt karne ke liye kiya jata hai.", features: ["Chandi Paath","Havan","Shakti Prapti","Protection","Large Scale Ritual","Pandit Team"] },
 
-{ icon: "🔥", name: "Laghurudra Yagna Ahmedabad", sub: "Shiv Maha Anushthan", desc: "Ahmedabad me Laghurudra Yagna karva kar Shiv ji ki kripa aur spiritual growth prapt kare.", features: ["Rudra Jaap","Abhishek","Havan","Health Benefits","Energy Purification","Spiritual Growth"] },
+//{ icon: "🔥", name: "Laghurudra Yagna Ahmedabad", sub: "Shiv Maha Anushthan", desc: "Ahmedabad me Laghurudra Yagna karva kar Shiv ji ki kripa aur spiritual growth prapt kare.", features: ["Rudra Jaap","Abhishek","Havan","Health Benefits","Energy Purification","Spiritual Growth"] },
 
-{ icon: "🌍", name: "Grahashanti Havan Ahmedabad", sub: "Navgraha Shanti Pooja", desc: "Ahmedabad me graho ke prabhav ko santulit karne ke liye Grahashanti Havan karvaye.", features: ["Navgraha Shanti","Havan","Dosha Nivaran","Career Growth","Health & Peace","Astrology Based"] },
+//{ icon: "🌍", name: "Grahashanti Havan Ahmedabad", sub: "Navgraha Shanti Pooja", desc: "Ahmedabad me graho ke prabhav ko santulit karne ke liye Grahashanti Havan karvaye.", features: ["Navgraha Shanti","Havan","Dosha Nivaran","Career Growth","Health & Peace","Astrology Based"] },
 
-{ icon: "💍", name: "Vivah Sanskar Ahmedabad", sub: "Wedding Ritual Services", desc: "Ahmedabad me traditional Vedic Vivah Sanskar pandit ke saath poori vidhi se karvaye.", features: ["Full Wedding Ritual","Kanyadaan","Saat Phere","Mandap Setup","Pandit Booking","Traditional Ceremony"] },
+//{ icon: "💍", name: "Vivah Sanskar Ahmedabad", sub: "Wedding Ritual Services", desc: "Ahmedabad me traditional Vedic Vivah Sanskar pandit ke saath poori vidhi se karvaye.", features: ["Full Wedding Ritual","Kanyadaan","Saat Phere","Mandap Setup","Pandit Booking","Traditional Ceremony"] },
 
-{ icon: "📒", name: "Chopda Poojan Ahmedabad", sub: "Diwali Business Ritual", desc: "Ahmedabad me Diwali ke samay Chopda Poojan karva kar business me growth aur dhan ki prapti kare.", features: ["Lakshmi Pooja","Account Book Ritual","Business Growth","Diwali Special","Wealth Blessings","Office Setup"] },
+//{ icon: "📒", name: "Chopda Poojan Ahmedabad", sub: "Diwali Business Ritual", desc: "Ahmedabad me Diwali ke samay Chopda Poojan karva kar business me growth aur dhan ki prapti kare.", features: ["Lakshmi Pooja","Account Book Ritual","Business Growth","Diwali Special","Wealth Blessings","Office Setup"] },
 
-{ icon: "🧵", name: "Janoi Sanskar Gujarat", sub: "Upanayan Ceremony", desc: "Gujarat me Janoi Sanskar (Upanayan) ladko ke liye ek pavitra vedic ritual hai.", features: ["Upanayan Vidhi","Gayatri Mantra","Sacred Ritual","Family Ceremony","Pandit Support","Tradition"] },
+//{ icon: "🧵", name: "Janoi Sanskar Gujarat", sub: "Upanayan Ceremony", desc: "Gujarat me Janoi Sanskar (Upanayan) ladko ke liye ek pavitra vedic ritual hai.", features: ["Upanayan Vidhi","Gayatri Mantra","Sacred Ritual","Family Ceremony","Pandit Support","Tradition"] },
 
-{ icon: "🌸", name: "Swaminarayan Mahapooja Ahmedabad", sub: "Bhakti Ritual", desc: "Ahmedabad me Swaminarayan Mahapooja karva kar bhakti aur spiritual shanti prapt kare.", features: ["Mahapooja","Havan","Bhakti Ritual","Family Blessings","Spiritual Growth","Devotional Setup"] },
+//{ icon: "🌸", name: "Swaminarayan Mahapooja Ahmedabad", sub: "Bhakti Ritual", desc: "Ahmedabad me Swaminarayan Mahapooja karva kar bhakti aur spiritual shanti prapt kare.", features: ["Mahapooja","Havan","Bhakti Ritual","Family Blessings","Spiritual Growth","Devotional Setup"] },
 
-{ icon: "🛕", name: "Pran Pratishta Ahmedabad", sub: "Murti Sthapana Vidhi", desc: "Ahmedabad me mandir ya murti sthapana ke liye pran pratishta vidhi karvaye jo divine energy activate karti hai.", features: ["Murti Sthapana","Mantra Jaap","Temple Ritual","Energy Activation","Pandit Team","Full Setup"] },
+//{ icon: "🛕", name: "Pran Pratishta Ahmedabad", sub: "Murti Sthapana Vidhi", desc: "Ahmedabad me mandir ya murti sthapana ke liye pran pratishta vidhi karvaye jo divine energy activate karti hai.", features: ["Murti Sthapana","Mantra Jaap","Temple Ritual","Energy Activation","Pandit Team","Full Setup"] },
 
-{ icon: "⚔️", name: "Chandi Path Gujarat", sub: "Durga Saptashati Paath", desc: "Gujarat me Chandi Path karva kar Maa Durga ki kripa aur protection prapt kare.", features: ["Durga Saptashati","Protection","Power Ritual","Spiritual Growth","Havan Optional","Pandit Available"] },
+//{ icon: "⚔️", name: "Chandi Path Gujarat", sub: "Durga Saptashati Paath", desc: "Gujarat me Chandi Path karva kar Maa Durga ki kripa aur protection prapt kare.", features: ["Durga Saptashati","Protection","Power Ritual","Spiritual Growth","Havan Optional","Pandit Available"] },
 
-{ icon: "🌺", name: "Randal Pooja Ahmedabad", sub: "Gujarati Ritual", desc: "Ahmedabad aur Gujarat me Randal Maa ki pooja shubh avsar par ki jati hai jo sukh aur santan sukh deti hai.", features: ["Traditional Ritual","Family Blessing","Fertility & Prosperity","Gujarati Vidhi","Pandit Support","Custom Setup"] },
+//{ icon: "🌺", name: "Randal Pooja Ahmedabad", sub: "Gujarati Ritual", desc: "Ahmedabad aur Gujarat me Randal Maa ki pooja shubh avsar par ki jati hai jo sukh aur santan sukh deti hai.", features: ["Traditional Ritual","Family Blessing","Fertility & Prosperity","Gujarati Vidhi","Pandit Support","Custom Setup"] },
   ];
   return (
     <div style={{ paddingTop: "80px" }}>
